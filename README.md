@@ -1,4 +1,3 @@
-# Nonlinear_Volatility_Forecasting
 # Nonlinear Dynamical Features for Financial Volatility Forecasting
 
 ## Research Overview
